@@ -1,0 +1,9 @@
+{
+  "bcrypt": {
+    "salt": 12
+  },
+  "jwt": {
+    "secret": "jwt-secret-token",
+    "expiresIn": 86400000
+  }
+}
